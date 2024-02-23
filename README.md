@@ -13,11 +13,11 @@ Before you begin, ensure you have met the following requirements:
 
 ## Running MyToken.sol in Remix IDE
 
-Remix IDE is a powerful open-source tool that helps you write Solidity contracts straight from the browser. Follow these steps to run the `MyToken.sol` contract:
+Remix IDE is a powerful open-source tool that helps you write Solidity contracts straight from the browser. Follow these steps to run the `My_Token.sol` contract:
 
 1. **Open Remix IDE**: Navigate to Remix IDE in your web browser.
 
-2. **Create a New File**: In the `File Explorers` tab, click on the `Create New File` icon and name it `MyToken.sol`.
+2. **Create a New File**: In the `File Explorers` tab, click on the `Create New File` icon and name it `My_Token.sol`.
 
 3. **Copy the Smart Contract**: Copy the Solidity code for `My_Token.sol` from this repository and paste it into the newly created file in Remix IDE.
 
