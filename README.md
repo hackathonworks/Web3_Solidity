@@ -37,7 +37,7 @@ When you're ready to deploy the contract to the Ethereum mainnet, make sure you 
 
 ## Contributing
 
-Contributions to the development of `MyToken` are welcome. Please ensure you follow the best practices for smart contract development and security.
+Contributions to the development of `VRTokens` are welcome. Please ensure you follow the best practices for smart contract development and security.
 
 ## License
 
