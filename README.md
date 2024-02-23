@@ -19,9 +19,9 @@ Remix IDE is a powerful open-source tool that helps you write Solidity contracts
 
 2. **Create a New File**: In the `File Explorers` tab, click on the `Create New File` icon and name it `MyToken.sol`.
 
-3. **Copy the Smart Contract**: Copy the Solidity code for `MyToken.sol` from this repository and paste it into the newly created file in Remix IDE.
+3. **Copy the Smart Contract**: Copy the Solidity code for `My_Token.sol` from this repository and paste it into the newly created file in Remix IDE.
 
-4. **Compile the Contract**: Go to the `Solidity Compiler` tab and click on the `Compile MyToken.sol` button to compile the smart contract.
+4. **Compile the Contract**: Go to the `Solidity Compiler` tab and click on the `Compile My_Token.sol` button to compile the smart contract.
 
 5. **Deploy the Contract**: Switch to the `Deploy & Run Transactions` tab. Select the `Injected Web3` environment to connect to your Ethereum wallet (e.g., MetaMask). Then click on the `Deploy` button to deploy the contract to the Ethereum network.
 
